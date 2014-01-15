@@ -1,7 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
 $body-bg:     #8e44ad;
+$font-family-sans-serif:  "lato", "helvetica neue", helvetica, arial, sans-serif;
 $navbar-inverse-bg:   #f39c12;
 $navbar-inverse-link-color: white;
 $text-color: #f39c12;
 
 
 @import 'bootstrap';
+
+.center{
+  text-align: center;
+  }
+  
